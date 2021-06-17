@@ -10,4 +10,4 @@
 
 Open your terminal and then type
 
-### `$ git clone https://github.com/DangKhoa99/TDTU_AI.git`
+### `$ git clone https://github.com/dangkhoa99/TDTU_AI.git`
